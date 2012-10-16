@@ -1,4 +1,3 @@
-pwman3
-======
+pwman3 has moved under the pwman3 organisation on github.
 
-Redirect for anyone with old bookmarks
+=> http://www.github.com/pwman3/pwman3
